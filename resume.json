@@ -1,0 +1,66 @@
+{
+  "bio": {
+    "firstName": "Erik",
+    "lastName": "Ringsmuth",
+    "email": {
+      "personal": "erik.ringsmuth@gmail.com"
+    },
+    "phone": {
+      "cell": "(320) 267-8115"
+    },
+    "summary": "JavaScript and open source enthusiast working at the bleeding edge of technology. I write front-end applications with modular JavaScript libraries like RequireJS and Ractive. I use Node, C#, and Java to write the REST services that power my applications. Not only do I code, I design code.",
+    "location": {
+      "city": "Eagan",
+      "countryCode": "US",
+      "state": "Minnesota"
+    },
+    "websites": {
+      "profile": "https://erikringsmuth.github.io",
+      "suri.io": "http://www.suri.io",
+      "blog": "https://medium.com/@ErikRingsmuth"
+    },
+    "profiles": {
+      "github": "erikringsmuth",
+      "twitter": "erikringsmuth"
+    }
+  },
+  "work": [
+    {
+      "company": "Thomson Reuters",
+      "position": "Sr. Software Engineer",
+      "website": "http://thomsonreuters.com",
+      "startDate": "2011-10-10",
+      "endDate": "present",
+      "summary": "At TR I do web development using JavaScript, C#, and Java. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
+      "highlights": [
+        "Led tech development on our project to create customizable home pages on WestlawNext.",
+        "Designed and wrote our new Account Preferences REST service which provides ACL based resources.",
+        "I wrote the UI for Westlaw Analytics. Firms use this to analyze their usage and spending on products like WestlawNext. We wrote the UI using Backbone and Require.js. We used Raphael.js to create graphs that beautifully summarize data.",
+        "Helped increase the use of dependency injection in the Document module for better unit testing.",
+        "Designed the Report module’s presentation, business, and data layers.",
+        "Additions to the Static Content module including the use of Require.js, Backbone.js, History.js, Sinon.js, etc.",
+        "Promoted to Sr. Software Engineer in December 2012."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "St. Cloud State University",
+      "startDate": "2004-09-01",
+      "endDate": "2010-12-15",
+      "area": "Computer Science",
+      "studyType": "Bachelor"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ]
+}
