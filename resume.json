@@ -8,7 +8,7 @@
     "phone": {
       "cell": "(320) 267-8115"
     },
-    "summary": "JavaScript and open source enthusiast working at the bleeding edge of technology. I write front-end applications with modular JavaScript libraries like RequireJS and Ractive. I use Node, C#, and Java to write the REST services that power my applications. Not only do I code, I design code.",
+    "summary": "JavaScript and open source enthusiast working at the bleeding edge of technology. I write front-end applications with modular JavaScript libraries like RequireJS and Ractive. I use Node, Java, and C# to write the REST services that power my applications. Not only do I code, I design code.",
     "location": {
       "city": "Eagan",
       "countryCode": "US",
@@ -30,9 +30,10 @@
       "position": "Sr. Software Engineer",
       "website": "http://thomsonreuters.com",
       "startDate": "2011-10-10",
-      "endDate": "present",
-      "summary": "At TR I do web development using JavaScript, C#, and Java. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
+      "endDate": "current",
+      "summary": "Currently pursuing all things elasticsearch. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
       "highlights": [
+        "Driving our new elasticsearch platform.",
         "Led tech development on our project to create customizable home pages on WestlawNext.",
         "Designed and wrote our new Account Preferences REST service which provides ACL based resources.",
         "I wrote the UI for Westlaw Analytics. Firms use this to analyze their usage and spending on products like WestlawNext. We wrote the UI using Backbone and Require.js. We used Raphael.js to create graphs that beautifully summarize data.",
@@ -40,6 +41,20 @@
         "Designed the Report module’s presentation, business, and data layers.",
         "Additions to the Static Content module including the use of Require.js, Backbone.js, History.js, Sinon.js, etc.",
         "Promoted to Sr. Software Engineer in December 2012."
+      ]
+    },
+    {
+      "company": "Great River Regional Library",
+      "position": "Computer Support Technician",
+      "website": "http://www.griver.org",
+      "startDate": "2007-09-27",
+      "endDate": "2011-10-06",
+      "summary": "The main part of my job was to support and maintain the library's software, computers, printers, and network equipment. I did telephone and customer support for our 32 branch libraries.",
+      "highlights": [
+        "Setting up servers for deploying Microsoft and 3rd party updates. I managed two servers for packaging and deploying software.",
+        "Configure, maintain, and deploy Windows XP and Windows 7 operating system images that we used on all of our staff and public computers.",
+        "Write scripts to install software, edit registry settings, manage user accounts, add printers, configure network settings, etc.",
+        "Create documentation for our software and equipment which was used by the library’s staff and patrons."
       ]
     }
   ],
@@ -54,13 +69,85 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "JavaScript",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "RequireJS",
+        "Ractive",
+        "Polymer",
+        "Angular",
+        "Backbone",
+        "Underscore",
+        "jQuery",
+        "Handlebars",
+        "Mocha",
+        "Jasmine",
+        "QUnit",
+        "Sinon",
+        "Node",
+        "Express",
+        "Bower",
+        "NPM",
+        "JSHint",
+        "Gulp",
+        "Bootstrap"
       ]
+    },
+    {
+      "name": "Search",
+      "keywords": [
+        "elasticsearch"
+      ]
+    },
+    {
+      "name": "Authentication",
+      "keywords": [
+        "OAuth 2.0",
+        "OpenID Connect"
+      ]
+    },
+    {
+      "name": "APIs",
+      "keywords": [
+        "REST",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Web",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        ".NET MVC",
+        "Linq",
+        "Unity",
+        "Moq"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "Spring",
+        "Guice",
+        "Guava",
+        "JUnit",
+        "Mockito",
+        "Hamcrest",
+        "MyBatis"
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "mountain biking"
+    },
+    {
+      "name": "freestyle skiing"
     }
   ]
 }
