@@ -33,7 +33,7 @@
       "endDate": "current",
       "summary": "Currently pursuing all things elasticsearch. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
       "highlights": [
-        "Driving our new elasticsearch platform.",
+        "Driving our new elasticsearch SaaS platform.",
         "Led tech development on our project to create customizable home pages on WestlawNext.",
         "Designed and wrote our new Account Preferences REST service which provides ACL based resources.",
         "I wrote the UI for Westlaw Analytics. Firms use this to analyze their usage and spending on products like WestlawNext. We wrote the UI using Backbone and Require.js. We used Raphael.js to create graphs that beautifully summarize data.",
@@ -71,10 +71,12 @@
     {
       "name": "JavaScript",
       "keywords": [
+        "Node",
+        "Express",
         "RequireJS",
-        "Ractive",
         "Polymer",
         "Angular",
+        "Ractive",
         "Backbone",
         "Underscore",
         "jQuery",
@@ -83,13 +85,10 @@
         "Jasmine",
         "QUnit",
         "Sinon",
-        "Node",
-        "Express",
         "Bower",
-        "NPM",
         "JSHint",
         "Gulp",
-        "Bootstrap"
+        "NPM"
       ]
     },
     {
@@ -99,17 +98,21 @@
       ]
     },
     {
-      "name": "Authentication",
+      "name": "Security",
       "keywords": [
         "OAuth 2.0",
-        "OpenID Connect"
+        "OpenID Connect",
+        "Basic Access Authentication",
+        "Digest Authentication",
+        "TLS/SSL"
       ]
     },
     {
       "name": "APIs",
       "keywords": [
         "REST",
-        "JSON"
+        "JSON",
+        "suri.io"
       ]
     },
     {
@@ -117,16 +120,8 @@
       "keywords": [
         "HTML5",
         "CSS3",
+        "Web Components",
         "Bootstrap"
-      ]
-    },
-    {
-      "name": "C#",
-      "keywords": [
-        ".NET MVC",
-        "Linq",
-        "Unity",
-        "Moq"
       ]
     },
     {
@@ -139,6 +134,15 @@
         "Mockito",
         "Hamcrest",
         "MyBatis"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        ".NET MVC",
+        "Linq",
+        "Unity",
+        "Moq"
       ]
     }
   ],
