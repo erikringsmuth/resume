@@ -1,28 +1,36 @@
 {
-  "bio": {
-    "firstName": "Erik",
-    "lastName": "Ringsmuth",
-    "email": {
-      "personal": "erik.ringsmuth@gmail.com"
-    },
-    "phone": {
-      "cell": "(320) 267-8115"
-    },
-    "summary": "JavaScript and open source enthusiast working at the bleeding edge of technology. I write front-end applications with modular JavaScript libraries like RequireJS and Ractive. I use Node, Java, and C# to write the REST services that power my applications. Not only do I code, I design code.",
+  "basics": {
+    "name": "Erik Ringsmuth",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "erik.ringsmuth@gmail.com",
+    "phone": "(320) 267-8115",
+    "website": "https://erikringsmuth.github.io/",
+    "summary": "JavaScript and open source enthusiast working at the bleeding edge of technology. I write front-end applications with JavaScript libraries like Polymer, Angular, and Ractive. I use Node, Java, and C# to write the REST services that power my applications. Not only do I code, I design code.",
     "location": {
-      "city": "Eagan",
+      "address": "240 5th St E",
+      "postalCode": "MN 55101",
+      "city": "Saint Paul",
       "countryCode": "US",
-      "state": "Minnesota"
+      "region": "Minnesota"
     },
-    "websites": {
-      "profile": "https://erikringsmuth.github.io",
-      "suri.io": "http://www.suri.io",
-      "blog": "https://medium.com/@ErikRingsmuth"
-    },
-    "profiles": {
-      "github": "erikringsmuth",
-      "twitter": "erikringsmuth"
-    }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "erikringsmuth",
+        "url": "http://twitter.com/erikringsmuth"
+      },
+      {
+        "network": "GitHub",
+        "username": "erikringsmuth",
+        "url": "https://github.com/erikringsmuth"
+      },
+      {
+        "network": "Blog",
+        "username": "erikringsmuth",
+        "url": "https://medium.com/@erikringsmuth"
+      }
+    ]
   },
   "work": [
     {
@@ -30,7 +38,6 @@
       "position": "Sr. Software Engineer",
       "website": "http://thomsonreuters.com",
       "startDate": "2011-10-10",
-      "endDate": "current",
       "summary": "Currently pursuing all things elasticsearch. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
       "highlights": [
         "Driving our new elasticsearch SaaS platform.",
@@ -61,10 +68,11 @@
   "education": [
     {
       "institution": "St. Cloud State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
       "startDate": "2004-09-01",
       "endDate": "2010-12-15",
-      "area": "Computer Science",
-      "studyType": "Bachelor"
+      "gpa": "3.82"
     }
   ],
   "skills": [
@@ -73,11 +81,11 @@
       "keywords": [
         "Node",
         "Express",
-        "RequireJS",
         "Polymer",
         "Angular",
         "Ractive",
         "Backbone",
+        "RequireJS",
         "Underscore",
         "jQuery",
         "Handlebars",
@@ -85,9 +93,9 @@
         "Jasmine",
         "QUnit",
         "Sinon",
-        "Bower",
         "JSHint",
         "Gulp",
+        "Bower",
         "NPM"
       ]
     },
@@ -100,11 +108,11 @@
     {
       "name": "Security",
       "keywords": [
+        "TLS/SSL",
         "OAuth 2.0",
         "OpenID Connect",
-        "Basic Access Authentication",
-        "Digest Authentication",
-        "TLS/SSL"
+        "Basic Authentication",
+        "Digest Authentication"
       ]
     },
     {
@@ -127,9 +135,10 @@
     {
       "name": "Java",
       "keywords": [
-        "Spring",
+        "Java 8",
         "Guice",
         "Guava",
+        "Spring",
         "JUnit",
         "Mockito",
         "Hamcrest",
@@ -146,12 +155,12 @@
       ]
     }
   ],
-  "hobbies": [
+  "interests": [
     {
-      "name": "mountain biking"
+      "name": "Mountain Biking"
     },
     {
-      "name": "freestyle skiing"
+      "name": "Freestyle Skiing"
     }
   ]
 }
