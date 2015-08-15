@@ -47,6 +47,7 @@
       "position": "Sr. Software Engineer",
       "website": "http://thomsonreuters.com",
       "startDate": "2011-10-10",
+      "endDate": "2015-06-18",
       "summary": "My mosts recent team was building TR's internal elasticsearch PaaS. We built a number of custom elasticsearch plugins. Our work is a mix of development and operations. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
       "highlights": [
         "Driving our new elasticsearch PaaS.",
