@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Erik Ringsmuth",
-    "label": "Software Engineer",
+    "label": "Software Development Engineer",
     "picture": "http://www.gravatar.com/avatar/5491ac2e7c74eb1253df058e3d8d3e83.jpg?s=400",
     "email": "erik.ringsmuth@gmail.com",
     "phone": "(320) 267-8115",
     "website": "https://erikringsmuth.github.io/",
     "summary": "Full stack developer and open source enthusiast working at the bleeding edge of technology. I write front-end applications with Polymer, Angular, and Ractive. I use Java, Node, and C# to write the REST services that power my applications. I also have a strong love for search, security, and dev-ops. Not only do I code, I design code.",
     "location": {
-      "address": "240 East 5th Street",
-      "postalCode": "MN 55101",
-      "city": "Saint Paul",
+      "address": "2121 6th Ave Apt N1906",
+      "postalCode": "98121",
+      "city": "Seattle",
       "countryCode": "US",
-      "region": "Minnesota"
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -34,11 +34,20 @@
   },
   "work": [
     {
+      "company": "Amazon Web Services",
+      "position": "Software Development Engineer",
+      "website": "https://aws.amazon.com/",
+      "startDate": "2015-07-06",
+      "summary": "I work on the EC2 Deployments team. We build the software that deploys code to the servers that run EC2.",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Thomson Reuters",
       "position": "Sr. Software Engineer",
       "website": "http://thomsonreuters.com",
       "startDate": "2011-10-10",
-      "summary": "Currently pursuing all things elasticsearch. My team is working on TR's internal elasticsearch PaaS. We've built a number of custom elasticsearch plugins. Our work is a mix of development and operations. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
+      "summary": "My mosts recent team was building TR's internal elasticsearch PaaS. We built a number of custom elasticsearch plugins. Our work is a mix of development and operations. I also do web development using JavaScript, Java, and C#. I’ve gained a wide range of experience working on products like Westlaw, WestlawNext, and Westlaw Analytics. I write and leverage many of our REST services.",
       "highlights": [
         "Driving our new elasticsearch PaaS.",
         "Writing custom security, monitoring, alerting, and logging elasticsearch plugins.",
